@@ -1,0 +1,11 @@
+{
+  "name": "api-receitaws-cnpj",
+  "version": "1.0.0",
+  "description": "Integra\u251c\u00ba\u251c\u00fao com a API ReceitaWS para consulta de dados cadastrais de CNPJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
